@@ -1,0 +1,30 @@
+{
+  "name": "ckeditor-self",
+  "version": "1.0.0",
+  "description": "A full function document editor which extends @ckeditor/build-document",
+  "main": "ckeditor.js",
+  "scripts": {
+    "test": "console.log('this is a custom  full function document editor which extends @ckeditor/build-document');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITUTIprpr/ckeditor-self.git"
+  },
+  "keywords": [
+    "full",
+    "function",
+    "rich-text",
+    "Editor"
+  ],
+  "author": "dongsl",
+  "license": "Apache-2.0",
+  "types": "./ckeditor.d.ts",
+  "bugs": {
+    "url": "https://github.com/ITUTIprpr/ckeditor-self/issues"
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "homepage": "https://github.com/ITUTIprpr/ckeditor-self#readme"
+}
